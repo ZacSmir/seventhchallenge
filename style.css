@@ -1,0 +1,11 @@
+#blue {
+  background: lightblue;
+}
+
+.intro-section {
+  display: block;
+}
+
+#color-display {
+  margin-top: 20px; 
+}
