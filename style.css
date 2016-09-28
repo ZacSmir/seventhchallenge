@@ -2,6 +2,18 @@
   background: lightblue;
 }
 
+#green{
+  background: lightgreen;
+}
+
+#red{
+  background: red;
+}
+
+#yellow{
+  
+}
+
 .intro-section {
   display: inline;
 }
